@@ -17,7 +17,7 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Excited to elevate <span className="text-purple">your team's</span> digital impact <span className="text-purple">together?</span>
+          Excited to elevate <span className="text-purple">your team&apos;s</span> digital impact <span className="text-purple">together?</span>
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
           Reach out to me today and let&apos;s discuss how WE can work together to 
@@ -25,7 +25,7 @@ const Footer = () => {
         </p>
         <a href="mailto:divya_amar@outlook.com">
           <MagicButton
-            title="Let's get in touch"
+            title="Let&apos;s get in touch"
             icon={<FaLocationArrow />}
             position="right"
           />
