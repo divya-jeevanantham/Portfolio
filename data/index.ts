@@ -104,6 +104,13 @@ export const testimonials = [
     img: "/Dmitry.jpeg",
     title: "CTO, Samdock GmbH",
   },
+  {
+    quote:
+      "Divya consistently demonstrated exceptional technical skills and a deep understanding of both frontend and backend technologies. Her expertise in Angular, TypeScript, and NestJS was instrumental in architecting and implementing our cloud-based CRM and sales system, the Samdock platform. Beyond her technical contributions, Divya excelled in collaboration and leadership. She worked seamlessly with cross-functional teams, including product management, to evaluate project outcomes and prioritize future features. Her mentorship of junior developers was particularly noteworthy, as she guided and supported four team members, accelerating their skill development and integration into the team. Divya's commitment to code quality was exemplary.",
+    name: "Alexander Woelke",
+    img: "/Alex.jpeg",
+    title: "CEO, Samdock GmbH",
+  },
 ];
 
 export const companies = [
